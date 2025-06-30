@@ -42,7 +42,14 @@ This project analyzes HR data from the Palmoria Group using **Power BI** to unco
 - Engineering, Business Developments, Marketing and Training show low female representation
 
 ## 📁 Files Included
-- `Palmoria_HR_Analytics.pbix` – Power BI dashboard file  
-- `dashboard_screenshot1.png` – Main HR dashboard  
-- `dashboard_screenshot2.png` – Bonus allocation dashboard  
-- `README.md` – Full project description  
+- `DSA CAPSTONE PROJECT.pbix` – Power BI dashboard file  
+- `screenshot66.png` – Main HR dashboard
+- `screenshot67.png` – HR dashboard
+- `screenshot68.png` – Bonus allocation dashboard  
+- `README.md` – Full project description
+
+## 📬 Contact
+
+**Oluwatobiloba Akinnubi**  
+📧 hephzibaholuwatobiloba@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/oluwatobiloba-akinnubi)
