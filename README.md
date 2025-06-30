@@ -34,3 +34,15 @@ This project analyzes HR data from the Palmoria Group using **Power BI** to unco
 - 🎯 Bonus Allocation by Department
 - 🧾 Total Bonus Paid by Region and Company-Wide
 ## 💡 Key Insights 
+- 607 employees earn below the regulatory $90,000 salary mark  
+- Female employees earn less on average in all regions
+- Bonus payouts are uneven across departments based on rating distribution
+- Kaduna has the highest bonus totals
+- Training department have the highest bonus totals
+- Engineering, Business Developments, Marketing and Training show low female representation
+
+## 📁 Files Included
+- `Palmoria_HR_Analytics.pbix` – Power BI dashboard file  
+- `dashboard_screenshot1.png` – Main HR dashboard  
+- `dashboard_screenshot2.png` – Bonus allocation dashboard  
+- `README.md` – Full project description  
